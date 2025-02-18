@@ -16,6 +16,11 @@ Requirements
 
 You will need:
 
+* one dedicated physical network with:
+  
+  * an unlimited access to the Internet
+  * DHCP server configured to serve LXD containers
+
 * at least three dedicated physical machines with:
 
   * hardware specifications matching minimum hardware specifications for the *Cloud* node as documented under the :doc:`Enterprise requirements</reference/enterprise-requirements>` section
