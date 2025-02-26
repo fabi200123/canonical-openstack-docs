@@ -365,7 +365,7 @@ At this point you should be able to see all three containers being equally distr
 
 .. warning ::
 
-   To avoid an unintended change of IPs and thus, loosing connectivity with Juju controllers post-deployment, reconfigure LXD containers to use static IP addresses at this point. Use the same IPs that were assigned during bootstrap. In order to reconfigure LXD containers to use static IP addresses, refer to the `Netplan documentation <https://ubuntu.com/server/docs/about-netplan>`_.
+   To avoid an unintended change of IPs and thus, loosing connectivity with Juju controllers post-deployment, reconfigure LXD containers to use static IP addresses at this point. Use the same IPs that were assigned during bootstrap. In order to reconfigure LXD containers to use static IP addresses, refer to the `Netplan documentation <https://documentation.ubuntu.com/server/explanation/networking/about-netplan/>`_.
 
 Create necessary credentials for the Sunbeam client
 ---------------------------------------------------
