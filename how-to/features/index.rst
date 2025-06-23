@@ -17,6 +17,7 @@ Optional Features
    secrets
    telemetry
    tls-ca
+   tls-vault
    ubuntu-pro
    validation
    vault

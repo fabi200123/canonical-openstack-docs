@@ -185,5 +185,11 @@ manifest file will all its supported keys.
              <CSR x500UniqueIdentifier>:
                # Base64 encoded certificate for unit CSR Unique ID: subject
                certificate: <Base64 encoded certificate>
-
+       vault:
+         config:
+           # TLS
+           certificates:
+             <CSR x500UniqueIdentifier>:
+               # Base64 encoded certificate for unit CSR Unique ID: subject
+               certificate: <Base64 encoded certificate>
       ...
