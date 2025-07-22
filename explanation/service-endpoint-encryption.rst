@@ -50,7 +50,8 @@ TLS Vault is a useful method for deployments that uses Vault as an intermediary 
    For a how-to on using the TLS Vault feature see :doc:`TLS Vault
    </how-to/features/tls-vault>`.
 
-Points of interest for this design:
+Points of interest for this design
+----------------------------------
 
 -  TLS Vault requires the Vault feature to be enabled in the
    cloud, which is done by following this guide :doc:`Enable Vault

@@ -92,6 +92,10 @@ manifest file will all its supported keys.
          #   osd_devices: /dev/vdc,/dev/vdd
          # sunbeam-3.localdomain:
          #   osd_devices: /dev/vdc,/dev/vdd
+       traefik_endpoints:
+         traefik: <traefik_external_hostname>
+         traefik-public: <traefik_public_external_hostname>
+         traefik-rgw: <traefik_rgw_external_hostname>
 
      software:
 

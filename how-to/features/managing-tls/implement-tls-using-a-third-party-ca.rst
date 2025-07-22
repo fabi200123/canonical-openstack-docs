@@ -204,7 +204,7 @@ Run the command below to inject the newly acquired TLS certificates into the clo
 
          sunbeam tls vault unit_certs
 
-      You will be prompted for a TLS certificate for each Traefik unit.
+      You will be prompted for a TLS certificate for the Vault unit.
 
       This example’s final total output is:
 
